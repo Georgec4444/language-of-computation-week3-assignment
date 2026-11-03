@@ -2,7 +2,7 @@
 
 MSAI-5523: Language of Computation
 
-**Status: APPROVED business rules, subject to clarification before coding.**
+**Status: FINAL and APPROVED business rules.**
 
 ## What I want this program to do
 
